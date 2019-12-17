@@ -13,6 +13,7 @@ GNU General Public License v3.0 (`GPL-3.0+`, see `LICENSE.txt`).
 - CMake
 - Gettext
 - Intl
+- [Catch2](https://github.com/catchorg/Catch2)
 
 ### Linux
 
